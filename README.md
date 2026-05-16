@@ -37,9 +37,6 @@ You can easily update:
 - Colors and typography
 - Contact details
 
-## Run Locally
-
-Open `index.html` in your browser.
 
 ## Author
 
